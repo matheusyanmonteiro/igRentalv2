@@ -1,7 +1,7 @@
 # rental.io
 the tasks for first part  ⚒
 
-- [ ] create categorie ⏳
+- [x] create categorie ⏳
 - [ ] isert uuid ⏳
 - [ ] insert rules of category ⏳
 - [ ] create the repository for category ⏳
