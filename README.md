@@ -2,7 +2,7 @@
 the tasks for first part  ⚒
 
 - [x] create categorie ✔
-- [ ] isert uuid ⏳
+- [ ] insert uuid ⏳
 - [ ] insert rules of category ⏳
 - [ ] create the repository for category ⏳
 - [ ] list categories ⏳
