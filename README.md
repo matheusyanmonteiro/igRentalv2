@@ -6,6 +6,6 @@ the tasks for first part  ⚒
 - [x] insert rules of category ✔
 - [x] create the repository for category ✔
 - [x] list categories ✔
-- [ ] validate register  ⏳
+- [x] validate register  ✔
 
 all code by rocketseat course.
