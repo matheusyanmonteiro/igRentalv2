@@ -15,8 +15,6 @@ categoriesRoutes.post("/", (request, response) => {
   }
   categoriesRepository.create({ name, description });
 
-  console.log(name, description);
-
   return response.status(201).send();
 });
 
