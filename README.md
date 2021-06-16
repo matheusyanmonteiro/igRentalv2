@@ -5,7 +5,7 @@ the tasks for first part  ⚒
 - [x] insert uuid ✔
 - [x] insert rules of category ✔
 - [x] create the repository for category ✔
-- [ ] list categories ⏳
+- [x] list categories ✔
 - [ ] validate register  ⏳
 
 all code by rocketseat course.
