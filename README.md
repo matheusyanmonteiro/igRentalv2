@@ -1,6 +1,11 @@
 # rental.io
-the ignite 2021 project.
-## its the start 
-![](README_archives/starts.gif)
+the tasks for first part  ⚒
+
+- [x] create categorie ✔
+- [x] insert uuid ✔
+- [x] insert rules of category ✔
+- [x] create the repository for category ✔
+- [x] list categories ✔
+- [x] validate register  ✔
 
 all code by rocketseat course.
