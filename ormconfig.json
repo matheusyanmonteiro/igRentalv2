@@ -4,6 +4,11 @@
   "host": "localhost",
   "username": "docker",
   "password": "docker",
-  "databese": "rentio_database_postgres"
+  "database": "rentio_database_postgres",
+  "entities": ["./src/modules/**/entities/*.ts"],
+  "migrations": ["./src/database/migrations/*.ts"],
+  "cli": {
+    "migrationsDir": "./src/database/migrations"
+  }
 
 }
