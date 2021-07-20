@@ -1,4 +1,4 @@
-import "reflect-metadata"; // this is a very important for TSyring dont forget.
+import "reflect-metadata"; // this is a very important for TSyring don't forget.
 import express from "express";
 import swaggerUi from "swagger-ui-express";
 
@@ -8,7 +8,7 @@ import { router } from "./routes";
 import swaggerFile from "./swagger.json";
 // get database
 import "./database";
-// get the depedency injection tool
+// get the dependency injection tool
 import "./shared/container";
 
 const app = express();

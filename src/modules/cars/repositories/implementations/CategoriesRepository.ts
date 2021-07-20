@@ -18,7 +18,6 @@ class CategoriesRepository implements ICategoriesRepository {
       description,
       name,
     });
-    console.log("chega ai pelo menos ?");
     await this.repository.save(category);
   }
 
