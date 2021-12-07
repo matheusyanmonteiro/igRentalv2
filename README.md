@@ -1,4 +1,2 @@
-# rental.io
-the tasks for second part  ⚒
- 
-all code by rocketseat course.
+# Project not finished 
+the project will be remade from scratch for academic purposes.
